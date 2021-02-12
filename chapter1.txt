@@ -1,1 +1,1 @@
-This is just a new chapter for the git repository class
+This is just a another chapter for another git repository class
